@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\bin\Debug\net8.0\hesapmakinesialperen.exe
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\bin\Debug\net8.0\hesapmakinesialperen.deps.json
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\bin\Debug\net8.0\hesapmakinesialperen.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\bin\Debug\net8.0\hesapmakinesialperen.dll
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\bin\Debug\net8.0\hesapmakinesialperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\obj\Debug\net8.0\hesapmakinesialperen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\obj\Debug\net8.0\hesapmakinesialperen.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\obj\Debug\net8.0\hesapmakinesialperen.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\obj\Debug\net8.0\hesapmakinesialperen.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\obj\Debug\net8.0\hesapmakinesialperen.dll
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\obj\Debug\net8.0\refint\hesapmakinesialperen.dll
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\obj\Debug\net8.0\hesapmakinesialperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\obj\Debug\net8.0\hesapmakinesialperen.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\hesapmakinesialperen\hesapmakinesialperen\obj\Debug\net8.0\ref\hesapmakinesialperen.dll
